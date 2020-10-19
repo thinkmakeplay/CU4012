@@ -1,2 +1,4 @@
 C:\Users\Fiona French\Documents\Londonmet\Cplusplus\VS2020Test2\Debug\VS2020Test2.exe
 C:\Users\Fiona French\Documents\Londonmet\Cplusplus\VS2020Test2\Debug\VS2020Test2.pdb
+C:\Users\Fiona French\Documents\Londonmet\Cplusplus\CU4012\VS2020Test2_if_else\Debug\VS2020Test2.exe
+C:\Users\Fiona French\Documents\Londonmet\Cplusplus\CU4012\VS2020Test2_if_else\Debug\VS2020Test2.pdb

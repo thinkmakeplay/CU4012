@@ -27,6 +27,6 @@ int main()
         std::cout << "This is the " << i << " time we write it...\n";
     }
 
-
+    std::cout << "That's all folks...\n";
     system("PAUSE");
 }
