@@ -1,0 +1,5 @@
+﻿  VS2020Test3.cpp
+C:\Users\Fiona French\Documents\Londonmet\Cplusplus\VS2020Test3\VS2020Test3.cpp(11,18): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Fiona French\Documents\Londonmet\Cplusplus\VS2020Test3\VS2020Test3.cpp(231,3): warning C4551: function call missing argument list
+C:\Users\Fiona French\Documents\Londonmet\Cplusplus\VS2020Test3\VS2020Test3.cpp(256,3): warning C4551: function call missing argument list
+  VS2020Test3.vcxproj -> C:\Users\Fiona French\Documents\Londonmet\Cplusplus\VS2020Test3\Debug\VS2020Test3.exe
